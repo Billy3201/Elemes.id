@@ -1,0 +1,54 @@
+.Navbar {
+    display:absolute;
+    z-index: 100;
+}
+
+.hotLogo Button{
+    z-index: 100;
+    display: relative;
+    top: 0px;
+    left: 0px;
+    background-color: #E7462D;
+    font-size: 10px;
+    align-items: center !important;
+    justify-content: center !important;
+    border-radius: 10px;
+}
+
+.hotLogo:hover{
+    display: relative;
+    background-color: #E7462D !important;
+}
+
+/*style={{
+    display:"relative",
+    left: "723px",
+    top: "22px", 
+    fontSize: "10px",
+    alignItems:"center",
+    width:"36px",
+
+    borderRadius:"8px",
+  }}
+*/
+.navbar-nav a{
+    margin: 0px 7px;
+}
+
+.nav-link{
+    font-weight: 500;
+    font-size: 14px;
+    color: #333333;
+}
+
+.nav-link:hover{
+    color: #333333;
+}
+
+.btnHeader{
+    width: 147px;
+    height: 42px;
+    background-color: #8BAC3E;
+    border-radius: 100px;
+    font-size: 14px;
+}

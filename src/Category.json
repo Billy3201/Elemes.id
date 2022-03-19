@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "category": "Cupcake",
+        "total": "22 Items",
+        "image":"./Images/cupcake.png"
+    },
+    {
+        "id": "2",
+        "category": "Pizza",
+        "total": "25 Items",
+        "image":"./Images/pizza.png"
+    },
+    {
+        "id": "3",
+        "category": "Kebab",
+        "total": "12 Items",
+        "image":"./Images/kebab.png"
+    },
+    {
+        "id": "4",
+        "category": "Salmon",
+        "total": "22 Items",
+        "image":"./Images/salmon.png"
+    },
+    {
+        "id": "5",
+        "category": "Doughnut",
+        "total": "11 Items",
+        "image":"./Images/doughnut.png"
+    },
+    {
+        "id": "6",
+        "category": "Burger",
+        "total": "11 Items",
+        "image":"./Images/doughnut.png"
+    },
+    {
+        "id": "7",
+        "category": "Cheese",
+        "total": "23 Items",
+        "image":"./Images/doughnut.png"
+    }
+]

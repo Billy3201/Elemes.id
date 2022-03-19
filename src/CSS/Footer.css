@@ -1,0 +1,100 @@
+.mainFooter{
+    background-color: #F9FFF7;
+    color: gray;
+    padding: 50px 0px 30px 0px;
+}
+
+.mainFooter h6{
+    color: black;
+    margin-top: 10px;
+    padding-bottom: 18px;
+}
+
+.mainFooter li{
+    margin-top: 13px;
+}
+
+.mainFooter a{
+    color: gray;
+    text-decoration: none;
+}
+  
+.footerleft img, .footerleft p{
+    margin-left:30px;
+}
+
+.footerleft p{
+    max-width: 70%;
+    margin-top: 22px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.footerLogo{
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.footerLogo svg{
+    cursor: pointer;
+}
+
+.footerLogo a{
+    stroke: #8BAC3E;
+}
+
+.footerLogo a:hover{
+    padding: 5px;
+    background-color: #8BAC3E;
+    border-radius: 50%;
+    stroke: white !important;
+}
+
+
+.footerLogo a:not(:first-child) {
+    margin-left: 13px;
+}
+
+.footerRight p{
+    max-width: 75%;
+    margin-bottom: 0;
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+.emailInput input{
+    height: 38px;
+    border: 2px solid #000000;
+}
+
+.emailInput Button{
+    width: 60px;
+    height: 38px;
+    border: 2px solid #000000;
+    font-size: 14px;
+    background-color: #8BAC3E;
+}
+
+.emailInput::placeholder{
+    padding-left: 8px !important;
+    font-weight: 400;
+    font-size: 14px;
+}
+
+.newsContact{
+    margin: 15px 0px;
+    display: flex;
+}
+
+
+.newsContact p{
+    font-size: 14px;
+    margin-left: 7px;
+}
+
+.copyright p{
+    font-size: 12px;
+    margin: 20px 0px;
+}

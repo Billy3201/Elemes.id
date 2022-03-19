@@ -1,0 +1,57 @@
+[
+    {
+        "id": "1",
+        "name": "Pizza Peperoni",
+        "category": "Pizza",
+        "image":"./Images/img1.png",
+        "bgColor": "#0088FE"
+    },
+    {
+        "id": "2",
+        "name": "Pizza Meat",
+        "category": "Pizza",
+        "image":"./Images/img2.png"
+    },
+    {
+        "id": "3",
+        "name": "Doner Kebab",
+        "category": "Kebab",
+        "image":"./Images/img3.png"
+    },
+    {
+        "id": "4",
+        "name": "Salmon Roll",
+        "category": "Salmon",
+        "image":"./Images/img4.png"
+    },
+    {
+        "id": "5",
+        "name": "Cupcake Choco",
+        "category": "Cupcake",
+        "image":"./Images/img5.png"
+    },
+    {
+        "id": "6",
+        "name": "Doughnut Milk",
+        "category": "Doughnut",
+        "image":"./Images/img6.png"
+    },
+    {
+        "id": "7",
+        "name": "Doughnut Unicorn",
+        "category": "Doughnut",
+        "image":"./Images/img7.png"
+    },
+    {
+        "id": "8",
+        "name": "Kathi Kebab",
+        "category": "Kebab",
+        "image":"./Images/img8.png"
+    },
+    {
+        "id": "9",
+        "name": "Kathi Kebab",
+        "category": "Kebab",
+        "image":"./Images/img3.png"
+    }
+]
