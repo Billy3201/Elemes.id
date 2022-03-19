@@ -19,7 +19,7 @@ function Home() {
               marginBottom: "50px",
         }}
         >
-          <h1 className="hiddenHeader .d-none .d-lg-block .d-xl-none">Good Food Us Good Mood</h1>
+          <h1 className="d-block d-sm-none hiddenHeader">Good Food Us Good Mood</h1>
           <Col lg={{span: 6, order:1}} xs={{span: 12, order:2}} className="browserLeft">
             <h1 className="d-none d-lg-block">Good Food Us Good Mood</h1>
             <p>I would think that conserving our natural resources should be a conservative position: Not to waste food, 
